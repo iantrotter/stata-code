@@ -1,0 +1,4 @@
+v 0.1.0
+d monitoria  Programs for Monitoria UFV-ERU626
+d Programs by Ian M. Trotter 
+p monitoria
