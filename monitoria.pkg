@@ -1,0 +1,34 @@
+d monitoria:
+d This package contains the following commands:
+d - auxreg: Auxiliary regressions for detection of multicolinearity
+d - chow: Chow test for structural break
+d - park: Park test for heteroscedasticity
+d - glejser: Glejser test for heteroscedasticity
+d - goldfeldquandt: Goldfeld-Quandt test for heteroscedasticity
+d - graphicalanalysis: Graphical analysis for detection of heteroscedasticity
+d - koenkerbassett: Koenker-Bassett test for heteroscedasticity
+d - spearmanhomoscedasticity: Spearman correlation test for homoscedasticity
+d
+d For usage instructions see the help file for each program.
+d
+d Author: Ian M. Trotter
+d Distribution-date: 2014-09-08
+d Stata-version: 12.1
+d
+f auxreg.ado
+f auxreg.sthlp
+f chow.ado
+f chow.sthlp
+f park.ado
+f park.sthlp
+f glejser.ado
+f glejser.sthlp
+f goldfeldquandt.ado
+f goldfeldquandt.sthlp
+f graphicalanalysis.ado
+f graphicalanalysis.sthlp
+f koenkerbassett.ado
+f koenkerbassett.sthlp
+f spearmanhomoscedasticity.ado
+f spearmanhomoscedasticity.sthlp
+e
